@@ -26,7 +26,7 @@ namespace Crime_App
         public static class GlobalDatabaseConnection
         {
             private static SQLiteConnection connection;
-            private static string connectionString = @"Data Source=C:\Users\Akhyar\OneDrive\Desktop\Crime Guard\crimeGuadeIteration1\Crime App\fir_db.db;Version=3;";
+            private static string connectionString = @"Data Source=fir_db.db;Version=3;";
 
             public static void Initialize()
             {

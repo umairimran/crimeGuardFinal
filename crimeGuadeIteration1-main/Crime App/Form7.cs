@@ -134,6 +134,7 @@ namespace Crime_App
         private void Form7_Load(object sender, EventArgs e)
         {
 
+
         }
     }
 }
