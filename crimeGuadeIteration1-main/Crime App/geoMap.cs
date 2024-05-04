@@ -252,7 +252,7 @@ namespace Crime_App
             List<string> values = new List<string>();
 
             // Your database connection string
-            string connectionString = "Data Source=C:\\Users\\LENOVO\\source\\repos\\WindowsFormsApp2\\crime_db.db;Version=3";
+            string connectionString = "Data Source=crime_db.db;Version=3";
 
             using (SQLiteConnection connection = new SQLiteConnection(connectionString))
             {

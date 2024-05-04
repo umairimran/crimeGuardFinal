@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\crime app\\register_fir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|c:\\users\\public\\crimeguardfinal\\crimeguadeiteration1-main\\crime app\\geomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|solutionrelative:crime app\\geomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\crime app\\geomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|solutionrelative:crime app\\geomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|c:\\users\\public\\crimeguardfinal\\crimeguadeiteration1-main\\crime app\\register_fir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|solutionrelative:crime app\\register_fir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,7 +75,7 @@
       "RelativeMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|solutionrelative:crime app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|c:\\users\\public\\crimeguardfinal\\crimeguadeiteration1-main\\crime app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\crime app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|solutionrelative:crime app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -93,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\crime app\\images.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|solutionrelative:crime app\\images.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\crime app\\geomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|solutionrelative:crime app\\geomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE84C676-7395-4518-841D-3844FA03A342}|Crime App\\Crime App.csproj|C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\crime app\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -454,11 +458,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "prison_management_system_module.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\prison_management_system_module.cs",
               "RelativeDocumentMoniker": "Crime App\\prison_management_system_module.cs",
@@ -470,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "prison_management_system_module.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\prison_management_system_module.cs",
               "RelativeDocumentMoniker": "Crime App\\prison_management_system_module.cs",
@@ -483,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Dashboard.cs",
               "RelativeDocumentMoniker": "Crime App\\Dashboard.cs",
@@ -497,20 +501,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Info_Report.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Info_Report.cs",
-              "RelativeDocumentMoniker": "Crime App\\Info_Report.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Info_Report.cs",
-              "RelativeToolTip": "Crime App\\Info_Report.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBYAAABCAAAA",
+              "DocumentIndex": 0,
+              "Title": "geoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\geoMap.cs",
+              "RelativeDocumentMoniker": "Crime App\\geoMap.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\geoMap.cs",
+              "RelativeToolTip": "Crime App\\geoMap.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAgwEMBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:59:54.443Z",
+              "WhenOpened": "2024-05-04T20:58:55.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "register_fir.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\register_fir.cs",
               "RelativeDocumentMoniker": "Crime App\\register_fir.cs",
@@ -522,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "register_fir.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\register_fir.cs",
               "RelativeDocumentMoniker": "Crime App\\register_fir.cs",
@@ -535,19 +539,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "geoMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\geoMap.cs",
+              "RelativeDocumentMoniker": "Crime App\\geoMap.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\geoMap.cs [Design]",
+              "RelativeToolTip": "Crime App\\geoMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:45:56.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Info_Report.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Info_Report.cs",
+              "RelativeDocumentMoniker": "Crime App\\Info_Report.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Info_Report.cs",
+              "RelativeToolTip": "Crime App\\Info_Report.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:59:54.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Info_Report.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Info_Report.cs",
               "RelativeDocumentMoniker": "Crime App\\Info_Report.cs",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Info_Report.cs [Design]",
               "RelativeToolTip": "Crime App\\Info_Report.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:03:10.375Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-04T19:03:10.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form7.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form7.cs",
               "RelativeDocumentMoniker": "Crime App\\Form7.cs",
@@ -555,24 +582,22 @@
               "RelativeToolTip": "Crime App\\Form7.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAIwBQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:59:13.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:59:13.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form7.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form7.cs",
               "RelativeDocumentMoniker": "Crime App\\Form7.cs",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form7.cs [Design]",
               "RelativeToolTip": "Crime App\\Form7.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:35:59.543Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-04T19:35:59.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form6.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form6.cs",
               "RelativeDocumentMoniker": "Crime App\\Form6.cs",
@@ -580,24 +605,22 @@
               "RelativeToolTip": "Crime App\\Form6.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAUwGoAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:58:18.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:58:18.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form6.cs",
               "RelativeDocumentMoniker": "Crime App\\Form6.cs",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form6.cs [Design]",
               "RelativeToolTip": "Crime App\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:35:58.206Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-04T19:35:58.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Form5.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form5.cs",
               "RelativeDocumentMoniker": "Crime App\\Form5.cs",
@@ -605,24 +628,22 @@
               "RelativeToolTip": "Crime App\\Form5.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAUwCAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:09:17.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:09:17.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form5.cs",
               "RelativeDocumentMoniker": "Crime App\\Form5.cs",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form5.cs [Design]",
               "RelativeToolTip": "Crime App\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:09:22.334Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-04T19:09:22.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form4.cs",
               "RelativeDocumentMoniker": "Crime App\\Form4.cs",
@@ -630,24 +651,22 @@
               "RelativeToolTip": "Crime App\\Form4.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAIwBwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:08:46.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:08:46.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form4.cs",
               "RelativeDocumentMoniker": "Crime App\\Form4.cs",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form4.cs [Design]",
               "RelativeToolTip": "Crime App\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:08:51.457Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-04T19:08:51.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form3.cs",
               "RelativeDocumentMoniker": "Crime App\\Form3.cs",
@@ -655,48 +674,44 @@
               "RelativeToolTip": "Crime App\\Form3.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAIwCAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:49:40.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:49:40.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form3.cs",
               "RelativeDocumentMoniker": "Crime App\\Form3.cs",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form3.cs [Design]",
               "RelativeToolTip": "Crime App\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:01:56.688Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-04T19:01:56.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form2.cs",
               "RelativeDocumentMoniker": "Crime App\\Form2.cs",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form2.cs [Design]",
               "RelativeToolTip": "Crime App\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:45:54.613Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-04T17:45:54.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form1.cs",
               "RelativeDocumentMoniker": "Crime App\\Form1.cs",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form1.cs [Design]",
               "RelativeToolTip": "Crime App\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T17:00:05.333Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-06T17:00:05.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Dashboard.cs",
               "RelativeDocumentMoniker": "Crime App\\Dashboard.cs",
@@ -708,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "fir_module.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\fir_module.cs",
               "RelativeDocumentMoniker": "Crime App\\fir_module.cs",
@@ -720,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "fir_module.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\fir_module.cs",
               "RelativeDocumentMoniker": "Crime App\\fir_module.cs",
@@ -731,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "register_prisoner_to_activity.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\register_prisoner_to_activity.cs",
               "RelativeDocumentMoniker": "Crime App\\register_prisoner_to_activity.cs",
@@ -742,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "inventory_department_module.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\inventory_department_module.cs",
               "RelativeDocumentMoniker": "Crime App\\inventory_department_module.cs",
@@ -753,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "images.jpg -  [English (United States)] - Bitmap [218x231, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\images.jpg",
               "RelativeDocumentMoniker": "Crime App\\images.jpg",
@@ -764,18 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "geoMap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\geoMap.cs",
-              "RelativeDocumentMoniker": "Crime App\\geoMap.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\geoMap.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\geoMap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:45:56.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Form5.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form5.Designer.cs",
               "RelativeDocumentMoniker": "Crime App\\Form5.Designer.cs",
@@ -783,24 +787,22 @@
               "RelativeToolTip": "Crime App\\Form5.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:02:05.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:02:05.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Form5.resx",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form5.resx",
               "RelativeDocumentMoniker": "Crime App\\Form5.resx",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form5.resx",
               "RelativeToolTip": "Crime App\\Form5.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-04T19:02:06.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:02:06.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Form3.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "Crime App\\Form3.Designer.cs",
@@ -808,24 +810,22 @@
               "RelativeToolTip": "Crime App\\Form3.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T19:01:58.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:01:58.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Form3.resx",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form3.resx",
               "RelativeDocumentMoniker": "Crime App\\Form3.resx",
               "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form3.resx",
               "RelativeToolTip": "Crime App\\Form3.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-04T19:02:00.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T19:02:00.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "search_data_in_database.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\search_data_in_database.cs",
               "RelativeDocumentMoniker": "Crime App\\search_data_in_database.cs",
@@ -837,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Dashboard.resx",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Dashboard.resx",
               "RelativeDocumentMoniker": "Crime App\\Dashboard.resx",
@@ -849,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "search_data_in_database.designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\search_data_in_database.designer.cs",
               "RelativeDocumentMoniker": "Crime App\\search_data_in_database.designer.cs",
@@ -861,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Dashboard.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "Crime App\\Dashboard.Designer.cs",
@@ -874,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "crime_input_page.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\crime_input_page.cs",
               "RelativeDocumentMoniker": "Crime App\\crime_input_page.cs",
@@ -885,42 +885,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "crime_trend_page.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\crime_trend_page.cs",
               "RelativeDocumentMoniker": "Crime App\\crime_trend_page.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\crime_trend_page.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\crime_trend_page.cs [Design]",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\crime_trend_page.cs [Design]",
+              "RelativeToolTip": "Crime App\\crime_trend_page.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:46:48.178Z"
+              "WhenOpened": "2024-05-04T17:46:48.178Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\FAIZAN IMRAN\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee2ddeac4bb4170a1a73eb0dfe575d77edc28a7ad6b59bbcb942cde13f24184\\Dashboard.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\FAIZAN IMRAN\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee2ddeac4bb4170a1a73eb0dfe575d77edc28a7ad6b59bbcb942cde13f24184\\Dashboard.cs",
               "ToolTip": "C:\\Users\\FAIZAN IMRAN\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee2ddeac4bb4170a1a73eb0dfe575d77edc28a7ad6b59bbcb942cde13f24184\\Dashboard.cs",
               "RelativeToolTip": "..\\..\\..\\FAIZAN IMRAN\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee2ddeac4bb4170a1a73eb0dfe575d77edc28a7ad6b59bbcb942cde13f24184\\Dashboard.cs",
-              "ViewState": "AQIAAAkBAAAAAAAAAAAAABQBAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T18:00:52.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "search_data_in_database.cs",
               "DocumentMoniker": "C:\\Users\\FAIZAN IMRAN\\AppData\\Local\\Temp\\.vsdbgsrc\\aa89d08c533a8425d846a6af8d02eb09c173bd97f2912d82632b7fa70daf5a62\\search_data_in_database.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\FAIZAN IMRAN\\AppData\\Local\\Temp\\.vsdbgsrc\\aa89d08c533a8425d846a6af8d02eb09c173bd97f2912d82632b7fa70daf5a62\\search_data_in_database.cs",
               "ToolTip": "C:\\Users\\FAIZAN IMRAN\\AppData\\Local\\Temp\\.vsdbgsrc\\aa89d08c533a8425d846a6af8d02eb09c173bd97f2912d82632b7fa70daf5a62\\search_data_in_database.cs",
               "RelativeToolTip": "..\\..\\..\\FAIZAN IMRAN\\AppData\\Local\\Temp\\.vsdbgsrc\\aa89d08c533a8425d846a6af8d02eb09c173bd97f2912d82632b7fa70daf5a62\\search_data_in_database.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAlwGMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T17:54:02.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Crime App",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Crime App.csproj",
               "RelativeDocumentMoniker": "Crime App\\Crime App.csproj",
@@ -931,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Mainwindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Mainwindow.xaml.cs",
               "RelativeDocumentMoniker": "Crime App\\Mainwindow.xaml.cs",
@@ -943,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "search_data_in_database.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\search_data_in_database.cs",
               "RelativeDocumentMoniker": "Crime App\\search_data_in_database.cs",
@@ -954,7 +953,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Form1.cs",
               "RelativeDocumentMoniker": "Crime App\\Form1.cs",
@@ -962,12 +961,11 @@
               "RelativeToolTip": "Crime App\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T17:00:05.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T17:00:05.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "prisoner_medical_checkup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\prisoner_medical_checkup.cs",
               "RelativeDocumentMoniker": "Crime App\\prisoner_medical_checkup.cs",
@@ -978,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "doctor_management_module.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\doctor_management_module.cs",
               "RelativeDocumentMoniker": "Crime App\\doctor_management_module.cs",
@@ -989,18 +987,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "doctor_reports_database_view.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\doctor_reports_database_view.cs",
               "RelativeDocumentMoniker": "Crime App\\doctor_reports_database_view.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\doctor_reports_database_view.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\doctor_reports_database_view.cs [Design]",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\doctor_reports_database_view.cs [Design]",
+              "RelativeToolTip": "Crime App\\doctor_reports_database_view.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:42:41.937Z"
+              "WhenOpened": "2024-04-13T06:42:41.937Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Crime_Data_Processing.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Crime_Data_Processing.cs",
               "RelativeDocumentMoniker": "Crime App\\Crime_Data_Processing.cs",
@@ -1012,7 +1011,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "create_new_activity.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_new_activity.cs",
               "RelativeDocumentMoniker": "Crime App\\create_new_activity.cs",
@@ -1023,7 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "create_new_belonging.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_new_belonging.cs",
               "RelativeDocumentMoniker": "Crime App\\create_new_belonging.cs",
@@ -1034,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "create_new_staff.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_new_staff.cs",
               "RelativeDocumentMoniker": "Crime App\\create_new_staff.cs",
@@ -1045,7 +1044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "newCell.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\newCell.Designer.cs",
               "RelativeDocumentMoniker": "Crime App\\newCell.Designer.cs",
@@ -1053,22 +1052,24 @@
               "RelativeToolTip": "Crime App\\newCell.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:45:18.187Z"
+              "WhenOpened": "2024-04-13T17:45:18.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "view_prisoner_belongings.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_prisoner_belongings.cs",
               "RelativeDocumentMoniker": "Crime App\\view_prisoner_belongings.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\view_prisoner_belongings.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\view_prisoner_belongings.cs [Design]",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_prisoner_belongings.cs [Design]",
+              "RelativeToolTip": "Crime App\\view_prisoner_belongings.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T16:12:19.333Z"
+              "WhenOpened": "2024-04-08T16:12:19.333Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "newCell.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\newCell.cs",
               "RelativeDocumentMoniker": "Crime App\\newCell.cs",
@@ -1076,11 +1077,12 @@
               "RelativeToolTip": "Crime App\\newCell.cs",
               "ViewState": "AQIAAGQAAAAAAAAAAAAAAG8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:45:23.018Z"
+              "WhenOpened": "2024-04-13T17:45:23.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "prisoner_form.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\prisoner_form.cs",
               "RelativeDocumentMoniker": "Crime App\\prisoner_form.cs",
@@ -1092,7 +1094,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "prisoner_form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\prisoner_form.cs",
               "RelativeDocumentMoniker": "Crime App\\prisoner_form.cs",
@@ -1103,18 +1105,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "newCell.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\newCell.cs",
               "RelativeDocumentMoniker": "Crime App\\newCell.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\newCell.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\newCell.cs [Design]",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\newCell.cs [Design]",
+              "RelativeToolTip": "Crime App\\newCell.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:46:06.066Z"
+              "WhenOpened": "2024-04-08T17:46:06.066Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "assign_cell_staff.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\assign_cell_staff.cs",
               "RelativeDocumentMoniker": "Crime App\\assign_cell_staff.cs",
@@ -1125,7 +1128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "assign_cell_staff.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\assign_cell_staff.cs",
               "RelativeDocumentMoniker": "Crime App\\assign_cell_staff.cs",
@@ -1137,7 +1140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "view_prisoner_belongings.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_prisoner_belongings.cs",
               "RelativeDocumentMoniker": "Crime App\\view_prisoner_belongings.cs",
@@ -1145,11 +1148,12 @@
               "RelativeToolTip": "Crime App\\view_prisoner_belongings.cs",
               "ViewState": "AQIAAG8AAAAAAAAAAAAAAHEAAAC8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T07:32:14.719Z"
+              "WhenOpened": "2024-04-12T07:32:14.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "registerNewDoctorForm.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\registerNewDoctorForm.cs",
               "RelativeDocumentMoniker": "Crime App\\registerNewDoctorForm.cs",
@@ -1157,22 +1161,24 @@
               "RelativeToolTip": "Crime App\\registerNewDoctorForm.cs",
               "ViewState": "AQIAAE4AAAAAAAAAAAAAAFsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:45:03.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "registerNewDoctorForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\registerNewDoctorForm.cs",
-              "RelativeDocumentMoniker": "Crime App\\registerNewDoctorForm.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\registerNewDoctorForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\registerNewDoctorForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:44:58.263Z"
+              "WhenOpened": "2024-04-13T05:45:03.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 60,
+              "Title": "registerNewDoctorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\registerNewDoctorForm.cs",
+              "RelativeDocumentMoniker": "Crime App\\registerNewDoctorForm.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\registerNewDoctorForm.cs [Design]",
+              "RelativeToolTip": "Crime App\\registerNewDoctorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:44:58.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
               "Title": "personalBelongingsManagementPortal.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\personalBelongingsManagementPortal.cs",
               "RelativeDocumentMoniker": "Crime App\\personalBelongingsManagementPortal.cs",
@@ -1184,7 +1190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "personalBelongingsManagementPortal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\personalBelongingsManagementPortal.cs",
               "RelativeDocumentMoniker": "Crime App\\personalBelongingsManagementPortal.cs",
@@ -1195,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "view_table_cell_staff_prisoner_combine.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_table_cell_staff_prisoner_combine.cs",
               "RelativeDocumentMoniker": "Crime App\\view_table_cell_staff_prisoner_combine.cs",
@@ -1207,7 +1213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "view_table_cell_staff_prisoner_combine.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_table_cell_staff_prisoner_combine.cs",
               "RelativeDocumentMoniker": "Crime App\\view_table_cell_staff_prisoner_combine.cs",
@@ -1218,7 +1224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "cell_management.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\cell_management.cs",
               "RelativeDocumentMoniker": "Crime App\\cell_management.cs",
@@ -1230,7 +1236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "cell_management.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\cell_management.cs",
               "RelativeDocumentMoniker": "Crime App\\cell_management.cs",
@@ -1241,7 +1247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "activity_module.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\activity_module.cs",
               "RelativeDocumentMoniker": "Crime App\\activity_module.cs",
@@ -1253,7 +1259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "activity_module.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\activity_module.cs",
               "RelativeDocumentMoniker": "Crime App\\activity_module.cs",
@@ -1264,7 +1270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "visitor_form.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\visitor_form.cs",
               "RelativeDocumentMoniker": "Crime App\\visitor_form.cs",
@@ -1276,7 +1282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "visitor_form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\visitor_form.cs",
               "RelativeDocumentMoniker": "Crime App\\visitor_form.cs",
@@ -1287,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "doctor_management_module.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\doctor_management_module.cs",
               "RelativeDocumentMoniker": "Crime App\\doctor_management_module.cs",
@@ -1299,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "staff_management_module.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\staff_management_module.cs",
               "RelativeDocumentMoniker": "Crime App\\staff_management_module.cs",
@@ -1310,7 +1316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "staff_management_module.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\staff_management_module.cs",
               "RelativeDocumentMoniker": "Crime App\\staff_management_module.cs",
@@ -1322,7 +1328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "geoMap.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\geoMap.Designer.cs",
               "RelativeDocumentMoniker": "Crime App\\geoMap.Designer.cs",
@@ -1330,11 +1336,12 @@
               "RelativeToolTip": "Crime App\\geoMap.Designer.cs",
               "ViewState": "AQIAAKcAAAAAAAAAAAAAAC8BAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T13:32:57.754Z"
+              "WhenOpened": "2024-04-13T13:32:57.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "addPrisonerToCell.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\addPrisonerToCell.cs",
               "RelativeDocumentMoniker": "Crime App\\addPrisonerToCell.cs",
@@ -1342,22 +1349,24 @@
               "RelativeToolTip": "Crime App\\addPrisonerToCell.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAcwFoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T13:03:22.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "addPrisonerToCell.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\addPrisonerToCell.cs",
-              "RelativeDocumentMoniker": "Crime App\\addPrisonerToCell.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\addPrisonerToCell.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\addPrisonerToCell.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:09:44.722Z"
+              "WhenOpened": "2024-04-13T13:03:22.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 76,
+              "Title": "addPrisonerToCell.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\addPrisonerToCell.cs",
+              "RelativeDocumentMoniker": "Crime App\\addPrisonerToCell.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\addPrisonerToCell.cs [Design]",
+              "RelativeToolTip": "Crime App\\addPrisonerToCell.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:09:44.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
               "Title": "create_new_staff.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_new_staff.cs",
               "RelativeDocumentMoniker": "Crime App\\create_new_staff.cs",
@@ -1369,7 +1378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "create_new_staff.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_new_staff.Designer.cs",
               "RelativeDocumentMoniker": "Crime App\\create_new_staff.Designer.cs",
@@ -1381,18 +1390,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "view_visitors_history.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_visitors_history.cs",
               "RelativeDocumentMoniker": "Crime App\\view_visitors_history.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\view_visitors_history.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\view_visitors_history.cs [Design]",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_visitors_history.cs [Design]",
+              "RelativeToolTip": "Crime App\\view_visitors_history.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T10:20:17.667Z"
+              "WhenOpened": "2024-04-13T10:20:17.667Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "view_staff.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_staff.cs",
               "RelativeDocumentMoniker": "Crime App\\view_staff.cs",
@@ -1400,22 +1410,24 @@
               "RelativeToolTip": "Crime App\\view_staff.cs",
               "ViewState": "AQIAAGcAAAAAAAAAAAAewHIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:03:53.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "view_staff.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_staff.cs",
-              "RelativeDocumentMoniker": "Crime App\\view_staff.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\view_staff.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\view_staff.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T09:48:37.862Z"
+              "WhenOpened": "2024-04-13T06:03:53.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 81,
+              "Title": "view_staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_staff.cs",
+              "RelativeDocumentMoniker": "Crime App\\view_staff.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_staff.cs [Design]",
+              "RelativeToolTip": "Crime App\\view_staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:48:37.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
               "Title": "view_medical_report_form.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_medical_report_form.cs",
               "RelativeDocumentMoniker": "Crime App\\view_medical_report_form.cs",
@@ -1423,33 +1435,36 @@
               "RelativeToolTip": "Crime App\\view_medical_report_form.cs",
               "ViewState": "AQIAAI4AAAAAAAAAAAAAAJYAAACqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T10:47:01.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "view_medical_report_form.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_medical_report_form.cs",
-              "RelativeDocumentMoniker": "Crime App\\view_medical_report_form.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\view_medical_report_form.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\view_medical_report_form.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:19:24.212Z"
+              "WhenOpened": "2024-04-12T10:47:01.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 83,
-              "Title": "create_medical_report.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_medical_report.cs",
-              "RelativeDocumentMoniker": "Crime App\\create_medical_report.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\create_medical_report.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\create_medical_report.cs [Design]",
+              "Title": "view_medical_report_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_medical_report_form.cs",
+              "RelativeDocumentMoniker": "Crime App\\view_medical_report_form.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_medical_report_form.cs [Design]",
+              "RelativeToolTip": "Crime App\\view_medical_report_form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T09:32:19.704Z"
+              "WhenOpened": "2024-04-11T18:19:24.212Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 84,
+              "Title": "create_medical_report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_medical_report.cs",
+              "RelativeDocumentMoniker": "Crime App\\create_medical_report.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_medical_report.cs [Design]",
+              "RelativeToolTip": "Crime App\\create_medical_report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:32:19.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
               "Title": "create_medical_report.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_medical_report.cs",
               "RelativeDocumentMoniker": "Crime App\\create_medical_report.cs",
@@ -1457,11 +1472,12 @@
               "RelativeToolTip": "Crime App\\create_medical_report.cs",
               "ViewState": "AQIAAPgAAAAAAAAAAAAMwAIBAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:55:18.54Z"
+              "WhenOpened": "2024-04-13T06:55:18.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "new_prisoner_form.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\new_prisoner_form.cs",
               "RelativeDocumentMoniker": "Crime App\\new_prisoner_form.cs",
@@ -1469,33 +1485,36 @@
               "RelativeToolTip": "Crime App\\new_prisoner_form.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAAEsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T17:59:51.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "new_prisoner_form.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\new_prisoner_form.cs",
-              "RelativeDocumentMoniker": "Crime App\\new_prisoner_form.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\new_prisoner_form.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\new_prisoner_form.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T10:25:16.796Z"
+              "WhenOpened": "2024-04-11T17:59:51.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 87,
-              "Title": "view_activity_in_data_view.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_activity_in_data_view.cs",
-              "RelativeDocumentMoniker": "Crime App\\view_activity_in_data_view.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\view_activity_in_data_view.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\view_activity_in_data_view.cs [Design]",
+              "Title": "new_prisoner_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\new_prisoner_form.cs",
+              "RelativeDocumentMoniker": "Crime App\\new_prisoner_form.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\new_prisoner_form.cs [Design]",
+              "RelativeToolTip": "Crime App\\new_prisoner_form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T07:52:43.477Z"
+              "WhenOpened": "2024-04-07T10:25:16.796Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 88,
+              "Title": "view_activity_in_data_view.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_activity_in_data_view.cs",
+              "RelativeDocumentMoniker": "Crime App\\view_activity_in_data_view.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_activity_in_data_view.cs [Design]",
+              "RelativeToolTip": "Crime App\\view_activity_in_data_view.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:52:43.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
               "Title": "view_activity_in_data_view.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_activity_in_data_view.cs",
               "RelativeDocumentMoniker": "Crime App\\view_activity_in_data_view.cs",
@@ -1503,11 +1522,12 @@
               "RelativeToolTip": "Crime App\\view_activity_in_data_view.cs",
               "ViewState": "AQIAAL0AAAAAAAAAAAAjwMkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:03:53.491Z"
+              "WhenOpened": "2024-04-13T06:03:53.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "create_new_activity.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_new_activity.cs",
               "RelativeDocumentMoniker": "Crime App\\create_new_activity.cs",
@@ -1519,7 +1539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "doctor_reports_database_view.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\doctor_reports_database_view.cs",
               "RelativeDocumentMoniker": "Crime App\\doctor_reports_database_view.cs",
@@ -1527,22 +1547,24 @@
               "RelativeToolTip": "Crime App\\doctor_reports_database_view.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAYwHYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:03:53.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 91,
-              "Title": "view_doctor_information.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_doctor_information.cs",
-              "RelativeDocumentMoniker": "Crime App\\view_doctor_information.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\view_doctor_information.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\view_doctor_information.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:15:56.42Z"
+              "WhenOpened": "2024-04-13T06:03:53.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 92,
+              "Title": "view_doctor_information.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_doctor_information.cs",
+              "RelativeDocumentMoniker": "Crime App\\view_doctor_information.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_doctor_information.cs [Design]",
+              "RelativeToolTip": "Crime App\\view_doctor_information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:15:56.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
               "Title": "view_doctor_information.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_doctor_information.cs",
               "RelativeDocumentMoniker": "Crime App\\view_doctor_information.cs",
@@ -1550,11 +1572,12 @@
               "RelativeToolTip": "Crime App\\view_doctor_information.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAWwEAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:03:53.048Z"
+              "WhenOpened": "2024-04-13T06:03:53.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "schedule_visit.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\schedule_visit.cs",
               "RelativeDocumentMoniker": "Crime App\\schedule_visit.cs",
@@ -1562,22 +1585,24 @@
               "RelativeToolTip": "Crime App\\schedule_visit.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAAAEoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T08:58:12.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 94,
-              "Title": "schedule_visit.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\schedule_visit.cs",
-              "RelativeDocumentMoniker": "Crime App\\schedule_visit.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\schedule_visit.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\schedule_visit.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T20:08:08.059Z"
+              "WhenOpened": "2024-04-12T08:58:12.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 95,
+              "Title": "schedule_visit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\schedule_visit.cs",
+              "RelativeDocumentMoniker": "Crime App\\schedule_visit.cs",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\schedule_visit.cs [Design]",
+              "RelativeToolTip": "Crime App\\schedule_visit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:08:08.059Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
               "Title": "visitor_register_form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\visitor_register_form.cs",
               "RelativeDocumentMoniker": "Crime App\\visitor_register_form.cs",
@@ -1588,7 +1613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "visitor_register_form.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\visitor_register_form.cs",
               "RelativeDocumentMoniker": "Crime App\\visitor_register_form.cs",
@@ -1600,7 +1625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "create_new_belonging.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\create_new_belonging.cs",
               "RelativeDocumentMoniker": "Crime App\\create_new_belonging.cs",
@@ -1612,18 +1637,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 99,
               "Title": "view_complete_bellongings.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_complete_bellongings.cs",
               "RelativeDocumentMoniker": "Crime App\\view_complete_bellongings.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\view_complete_bellongings.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\view_complete_bellongings.cs [Design]",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_complete_bellongings.cs [Design]",
+              "RelativeToolTip": "Crime App\\view_complete_bellongings.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:37:09.87Z"
+              "WhenOpened": "2024-04-11T19:37:09.87Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 100,
               "Title": "view_complete_bellongings.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_complete_bellongings.cs",
               "RelativeDocumentMoniker": "Crime App\\view_complete_bellongings.cs",
@@ -1631,11 +1657,12 @@
               "RelativeToolTip": "Crime App\\view_complete_bellongings.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAAAFoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:57:25.162Z"
+              "WhenOpened": "2024-04-11T19:57:25.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 101,
               "Title": "viewParticularCell.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\viewParticularCell.cs",
               "RelativeDocumentMoniker": "Crime App\\viewParticularCell.cs",
@@ -1643,11 +1670,12 @@
               "RelativeToolTip": "Crime App\\viewParticularCell.cs",
               "ViewState": "AQIAAFgAAAAAAAAAAAAAAF4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T12:49:20.774Z"
+              "WhenOpened": "2024-04-12T12:49:20.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 103,
               "Title": "viewParticularCell.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\viewParticularCell.Designer.cs",
               "RelativeDocumentMoniker": "Crime App\\viewParticularCell.Designer.cs",
@@ -1655,34 +1683,35 @@
               "RelativeToolTip": "Crime App\\viewParticularCell.Designer.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAswA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T17:57:36.854Z"
+              "WhenOpened": "2024-04-12T17:57:36.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 102,
               "Title": "viewParticularCell.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\viewParticularCell.cs",
               "RelativeDocumentMoniker": "Crime App\\viewParticularCell.cs",
-              "ToolTip": "C:\\Users\\Public\\crimeGuadeIteration1-main\\Crime App\\viewParticularCell.cs [Design]",
-              "RelativeToolTip": "..\\..\\crimeGuadeIteration1-main\\Crime App\\viewParticularCell.cs [Design]",
+              "ToolTip": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\viewParticularCell.cs [Design]",
+              "RelativeToolTip": "Crime App\\viewParticularCell.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:14:54.104Z"
+              "WhenOpened": "2024-04-08T18:14:54.104Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 104,
               "Title": "Matrix.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\3aec9ced42793fc419b866708e71612e4cc6eb9877f1e196ff9159e0b4f5479b\\Matrix.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\3aec9ced42793fc419b866708e71612e4cc6eb9877f1e196ff9159e0b4f5479b\\Matrix.cs",
               "ToolTip": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\3aec9ced42793fc419b866708e71612e4cc6eb9877f1e196ff9159e0b4f5479b\\Matrix.cs",
               "RelativeToolTip": "..\\..\\..\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\3aec9ced42793fc419b866708e71612e4cc6eb9877f1e196ff9159e0b4f5479b\\Matrix.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswBYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T17:56:43.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 105,
               "Title": "view_medical_report_form.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\view_medical_report_form.Designer.cs",
               "RelativeDocumentMoniker": "Crime App\\view_medical_report_form.Designer.cs",
@@ -1690,11 +1719,12 @@
               "RelativeToolTip": "Crime App\\view_medical_report_form.Designer.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAMwA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T11:10:47.704Z"
+              "WhenOpened": "2024-04-12T11:10:47.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 106,
               "Title": "register_prisoner_to_activity.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\register_prisoner_to_activity.cs",
               "RelativeDocumentMoniker": "Crime App\\register_prisoner_to_activity.cs",
@@ -1706,7 +1736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 107,
               "Title": "Login_Page.xaml",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Login_Page.xaml",
               "RelativeDocumentMoniker": "Crime App\\Login_Page.xaml",
@@ -1717,7 +1747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 108,
               "Title": "Mainwindow.xaml",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\Mainwindow.xaml",
               "RelativeDocumentMoniker": "Crime App\\Mainwindow.xaml",
@@ -1728,7 +1758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 109,
               "Title": "UserControl1.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\UserControl1.cs",
               "RelativeDocumentMoniker": "Crime App\\UserControl1.cs",
@@ -1740,7 +1770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 110,
               "Title": "UserControl1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\UserControl1.cs",
               "RelativeDocumentMoniker": "Crime App\\UserControl1.cs",
@@ -1751,7 +1781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 111,
               "Title": "crime_trend_page.designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\crime_trend_page.designer.cs",
               "RelativeDocumentMoniker": "Crime App\\crime_trend_page.designer.cs",
@@ -1759,11 +1789,12 @@
               "RelativeToolTip": "Crime App\\crime_trend_page.designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T17:00:05.344Z"
+              "WhenOpened": "2024-04-06T17:00:05.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 112,
               "Title": "crime_input_page.designer.cs",
               "DocumentMoniker": "C:\\Users\\Public\\crimeGuardFinal\\crimeGuadeIteration1-main\\Crime App\\crime_input_page.designer.cs",
               "RelativeDocumentMoniker": "Crime App\\crime_input_page.designer.cs",
